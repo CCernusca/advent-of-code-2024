@@ -1,5 +1,4 @@
 
-
 path = "listdifference_in.txt"
 
 with open(path) as f:
